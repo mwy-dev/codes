@@ -11,5 +11,8 @@
 - <b>Practicing python with OOP</b>
   - [Simple BMI calculator](https://github.com/mwy-dev/practice)
 
+<!--
+**mwy-dev/codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/micha%C5%82-wysocki-498884226/">Linked In</a>
